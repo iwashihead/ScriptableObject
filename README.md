@@ -1,5 +1,5 @@
 # ScriptableObject
-ScriptacleObjectを編集できるようする簡単なエディタです。
+ScriptacleObjectを編集できるようにする簡単なエディタです。
 
 エディタは "Windows/MyDataEditor"から開きます.  
 ![Alt text](http://googledrive.com/host/0BwKJWa7WHaTRfkNhNnVsVnBZWUdnVDI1Slc5WXA5UlFGR2JPQXJxZENic2dnMURGQ2ZPeTQ/openScriptableEditor.png)  
