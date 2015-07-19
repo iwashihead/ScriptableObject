@@ -1,11 +1,8 @@
 # ScriptableObject
-Sample of ScriptacleObject in Unity3d.  this sample is Editable in the editor.
+ScriptacleObjectを編集できるようする簡単なエディタです。
 
-Editor to open the menu "Windows/MyDataEditor".  
+エディタは "Windows/MyDataEditor"から開きます.  
 ![Alt text](http://googledrive.com/host/0BwKJWa7WHaTRfkNhNnVsVnBZWUdnVDI1Slc5WXA5UlFGR2JPQXJxZENic2dnMURGQ2ZPeTQ/openScriptableEditor.png)  
 
-You can change the value from the editor.  
+値の編集、要素の追加/削除を行うことができます.  
 ![Alt text](http://googledrive.com/host/0BwKJWa7WHaTRfkNhNnVsVnBZWUdnVDI1Slc5WXA5UlFGR2JPQXJxZENic2dnMURGQ2ZPeTQ/scriptableEditor.png)  
-
-you can confirm value has changed from Inspector.  
-![Alt text](http://googledrive.com/host/0BwKJWa7WHaTRfkNhNnVsVnBZWUdnVDI1Slc5WXA5UlFGR2JPQXJxZENic2dnMURGQ2ZPeTQ/ConfirmValueChange.png)  
